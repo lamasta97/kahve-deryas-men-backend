@@ -1,2 +1,3 @@
-# kahve-deryas-men-backend
-kahve deryası menü backend
+npm install
+npm install express mongoose cors
+node server.js
