@@ -142,6 +142,117 @@ const products = [
   // DONDURMALAR
   { category: "dondurmalar", title: "Dondurmalar (4 Top)", description: "", image: "/images/dondurmalar_4top.jpg", price: "195₺" },
   { category: "dondurmalar", title: "Top Dondurma (Tek top)", description: "", image: "/images/top_dondurma.jpg", price: "50₺" },
+
+  // Tavuk yemekleri
+
+  { category: "tavuk_yemekleri", title: "Köri Soslu Tavuk", description: "", image: "/images/placeholder.jpg", price: "380₺" },
+  { category: "tavuk_yemekleri", title: "Soya Soslu Tavuk", description: "", image: "/images/placeholder.jpg", price: "380₺" },
+  { category: "tavuk_yemekleri", title: "Piliç Şinitzel", description: "", image: "/images/placeholder.jpg", price: "380₺" },
+  { category: "tavuk_yemekleri", title: "Bechamel Soslu Tavuk", description: "", image: "/images/placeholder.jpg", price: "- ₺" },
+  { category: "tavuk_yemekleri", title: "Tavuklu Fajita", description: "", image: "/images/placeholder.jpg", price: "410₺" },
+  { category: "tavuk_yemekleri", title: "Tavuk Izgara", description: "", image: "/images/placeholder.jpg", price: "400₺" },
+
+
+   // Turk kahveleri
+
+
+  { category: "turk_kahveleri", title: "Osmanlı Dibek", description: "", image: "/images/placeholder.jpg", price: "115₺" },
+  { category: "turk_kahveleri", title: "Türk Kahvesi", description: "", image: "/images/placeholder.jpg", price: "100₺" },
+  { category: "turk_kahveleri", title: "Double Türk Kahvesi", description: "", image: "/images/placeholder.jpg", price: "135₺" },
+  { category: "turk_kahveleri", title: "Sütlü", description: "", image: "/images/placeholder.jpg", price: "115₺" },
+  { category: "turk_kahveleri", title: "Osmanlı Dibek Damla Sakızlı", description: "", image: "/images/placeholder.jpg", price: "115₺" },
+  { category: "turk_kahveleri", title: "Yeditepe İstanbul", description: "", image: "/images/placeholder.jpg", price: "115₺" },
+  { category: "turk_kahveleri", title: "Menengiç", description: "", image: "/images/placeholder.jpg", price: "100₺" },
+  { category: "turk_kahveleri", title: "Leb-i Derya", description: "", image: "/images/placeholder.jpg", price: "115₺" },
+  { category: "turk_kahveleri", title: "Damla Sakızlı", description: "", image: "/images/placeholder.jpg", price: "115₺" },
+  { category: "turk_kahveleri", title: "Çikolata - Fındıklı", description: "", image: "/images/placeholder.jpg", price: "115₺" },
+  { category: "turk_kahveleri", title: "Dağ Çilekli", description: "", image: "/images/placeholder.jpg", price: "115₺" },
+  { category: "turk_kahveleri", title: "Double Aromalı Türk K. Çeşitleri", description: "", image: "/images/placeholder.jpg", price: "150₺" },
+  
+
+
+
+  // CAYLAR
+
+  { category: "caylar", title: "Çay", description: "", image: "/images/placeholder.jpg", price: "45₺" },
+  { category: "caylar", title: "Kuşburnu", description: "", image: "/images/placeholder.jpg", price: "150₺" },
+  { category: "caylar", title: "Kış Çayı", description: "", image: "/images/placeholder.jpg", price: "150₺" },
+  { category: "caylar", title: "Yeşil Çay", description: "", image: "/images/placeholder.jpg", price: "150₺" },
+  { category: "caylar", title: "Nane - Limon Yeşil Çay", description: "", image: "/images/placeholder.jpg", price: "150₺" },
+  { category: "caylar", title: "Yaseminli Yeşil Çay", description: "", image: "/images/placeholder.jpg", price: "150₺" },
+  { category: "caylar", title: "Orman Meyveli Siyah Çay", description: "", image: "/images/placeholder.jpg", price: "150₺" },
+  { category: "caylar", title: "Papatya", description: "", image: "/images/placeholder.jpg", price: "150₺" },
+  { category: "caylar", title: "Adaçayı", description: "", image: "/images/placeholder.jpg", price: "150₺" },
+  { category: "caylar", title: "Ihlamur", description: "", image: "/images/placeholder.jpg", price: "150₺" },
+  { category: "caylar", title: "Fincan Çay", description: "", image: "/images/placeholder.jpg", price: "65₺" },
+  { category: "caylar", title: "Sütlü Çay (Fincanda)", description: "", image: "/images/placeholder.jpg", price: "90₺" },
+  // Et Yemekleri
+{ category: "et_yemekleri", title: "Chef Köfte", description: "", image: "/images/placeholder.jpg", price: "450₺" },
+{ category: "et_yemekleri", title: "Bodrum Çökertmesi", description: "", image: "/images/placeholder.jpg", price: "₺" },
+{ category: "et_yemekleri", title: "Gurme Bonfile", description: "", image: "/images/placeholder.jpg", price: "₺" },
+{ category: "et_yemekleri", title: "Etli Fajita", description: "", image: "/images/placeholder.jpg", price: "₺" },
+{ category: "et_yemekleri", title: "Güveçte Et Sote", description: "", image: "/images/placeholder.jpg", price: "₺" },
+
+// Aperatifler
+{ category: "aperatifler", title: "Parmak Patates", description: "", image: "/images/placeholder.jpg", price: "240₺" },
+{ category: "aperatifler", title: "Parmak Patates ve Soğan Halkası", description: "", image: "/images/placeholder.jpg", price: "270₺" },
+{ category: "aperatifler", title: "Çıtır Tavuk Dilimleri", description: "", image: "/images/placeholder.jpg", price: "300₺" },
+{ category: "aperatifler", title: "Sıcak Sepet", description: "", image: "/images/placeholder.jpg", price: "350₺" },
+{ category: "aperatifler", title: "Dedikodu Tabağı", description: "", image: "/images/placeholder.jpg", price: "475₺" },
+{ category: "aperatifler", title: "Çıtır Kova (2/4 kişilik)", description: "", image: "/images/placeholder.jpg", price: "₺" },
+
+// Pizzalar
+{ category: "pizzalar", title: "Karışık Pizza", description: "", image: "/images/placeholder.jpg", price: "370₺" },
+{ category: "pizzalar", title: "Vejeteryan Pizza", description: "", image: "/images/placeholder.jpg", price: "320₺" },
+{ category: "pizzalar", title: "Pastırmalı Pizza", description: "", image: "/images/placeholder.jpg", price: "₺" },
+{ category: "pizzalar", title: "Margarita Pizza", description: "", image: "/images/placeholder.jpg", price: "340₺" },
+
+// Wrapler
+{ category: "wrapler", title: "Etli Wrap (100 gr.)", description: "", image: "/images/placeholder.jpg", price: "400₺" },
+{ category: "wrapler", title: "Tavuklu Wrap (100 gr.)", description: "", image: "/images/placeholder.jpg", price: "370₺" },
+
+
+
+// Menemenler
+{ category: "menemenler", title: "Klasik Menemen", description: "", image: "/images/placeholder.jpg", price: "250₺" },
+{ category: "menemenler", title: "Kaşar Peynirli Menemen", description: "", image: "/images/placeholder.jpg", price: "260₺" },
+{ category: "menemenler", title: "Karışık Menemen (50 gr.)", description: "", image: "/images/placeholder.jpg", price: "275₺" },
+
+// Salatalar
+{ category: "salatalar", title: "Ege Usulü", description: "", image: "/images/placeholder.jpg", price: "260₺" },
+{ category: "salatalar", title: "Diyet Salata", description: "", image: "/images/placeholder.jpg", price: "280₺" },
+{ category: "salatalar", title: "Hellim Salata", description: "", image: "/images/placeholder.jpg", price: "300₺" },
+{ category: "salatalar", title: "Tavuklu Sezar Salata", description: "", image: "/images/placeholder.jpg", price: "300₺" },
+{ category: "salatalar", title: "Ton Balıklı Salata", description: "", image: "/images/placeholder.jpg", price: "300₺" },
+
+// Burgerler
+{ category: "burgerler", title: "Big Chicken (Patates + Salata)", description: "", image: "/images/placeholder.jpg", price: "320₺" },
+{ category: "burgerler", title: "Cheese Burger (Patates + Salata)", description: "", image: "/images/placeholder.jpg", price: "345₺" },
+{ category: "burgerler", title: "Klasik Usül Burger (Patates + Salata)", description: "", image: "/images/placeholder.jpg", price: "330₺" },
+
+// Sandviçler
+{ category: "sandvicler", title: "Ton Balıklı Sandviç", description: "", image: "/images/placeholder.jpg", price: "310₺" },
+{ category: "sandvicler", title: "Karışık Sandviç", description: "", image: "/images/placeholder.jpg", price: "310₺" },
+{ category: "sandvicler", title: "Philly Steak (Patates + Salata)", description: "", image: "/images/placeholder.jpg", price: "₺" },
+{ category: "sandvicler", title: "Club Sandviç (Patates + Salata)", description: "", image: "/images/placeholder.jpg", price: "₺" },
+
+// Tostlar
+{ category: "tostlar", title: "Kaşarlı Tost (Patates+Salata)", description: "", image: "/images/placeholder.jpg", price: "230₺" },
+{ category: "tostlar", title: "Karışık Tost (Patates+Salata)", description: "", image: "/images/placeholder.jpg", price: "250₺" },
+
+// Makarnalar
+{ category: "makarnalar", title: "Penne Arabiatta", description: "", image: "/images/placeholder.jpg", price: "280₺" },
+{ category: "makarnalar", title: "Penne Alfredo", description: "", image: "/images/placeholder.jpg", price: "300₺" },
+{ category: "makarnalar", title: "Spagetti Napoliten", description: "", image: "/images/placeholder.jpg", price: "280₺" },
+{ category: "makarnalar", title: "Spagetti Bolognese", description: "", image: "/images/placeholder.jpg", price: "320₺" },
+{ category: "makarnalar", title: "Fettucini Alfredo", description: "", image: "/images/placeholder.jpg", price: "310₺" },
+{ category: "makarnalar", title: "Mantı", description: "", image: "/images/placeholder.jpg", price: "310₺" }
+
+
+
+
+
+
 ];
 
 
